@@ -1,0 +1,1 @@
+python test.py --config config/coco4x.yaml

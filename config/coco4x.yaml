@@ -1,0 +1,12 @@
+name: localtrans_4x
+dataroot: /media/data1/shaoruizhi/AttentionWarping/train2014
+batch_size: 32
+epoch: 10000
+lr: 1e-4
+gpu_id: 0
+level: 3
+downsample: 4
+random_noise: True
+random_color: True
+random_bias: 0.5
+resume: True
