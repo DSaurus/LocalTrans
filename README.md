@@ -16,6 +16,10 @@ This repository contains the official pytorch implementation of ”*LocalTrans: 
 - kornia
 - imageio
 
+## Pretrained Model
+We have provided pretrained model under several settings in ![One Drive](https://mailstsinghuaeducn-my.sharepoint.com/:f:/g/personal/shaorz20_mails_tsinghua_edu_cn/Et6rFUvWy8VNjC6gDWhpOSoBjZ9ISDTGkaTBumLafQ9asw?e=IQe8Or)
+
+
 ## Training
 To train localtrans on the COCO dataset in different setting, run the following code:
 ```
